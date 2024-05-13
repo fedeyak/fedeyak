@@ -6,11 +6,14 @@
 </div>
 
 <div id="badges" align="center">
+  <a href="https://t.me/Fedor_Krushov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+<!--     <img src="https://img.shields.io/badge/Gmail-gray?style=for-the-badge&logo=Gmail&logoColor=red" alt="Gmail Badge"/> -->
   <a href="https://www.linkedin.com/in/fedor-krushov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+    
+
 </div>
 
 <div id="counter" align="center">
@@ -28,7 +31,7 @@
 - Learning to become the best Java Software Engineer
 - Clean code rules! Test Driven Development is awesome!
 - In my free time, I solve problems on CodeWars and Leetcode and read tech articles.
-- How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Fedor_Krushov-blue?style=flat&logo=Telegram&logoColor=white)](@Fedor_Krushov)
+- How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Fedor_Krushov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Fedor_Krushov)
 ---
 ### :hammer_and_wrench: Languages and Tools:
 ![Java](https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=openjdk&logoColor=white)
