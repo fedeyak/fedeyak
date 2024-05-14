@@ -33,6 +33,11 @@
 - In my free time, I solve problems on CodeWars and Leetcode and read tech articles.
 - How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Fedor_Krushov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Fedor_Krushov)
 ---
+<h3 class="heading-element" dir="auto">Main repositories</h3>
+<li><a href="https://github.com/fedeyak/leet_code">LeetCode problems</a></li>
+<li><a href="https://github.com/fedeyak/Educational_projects">Educational projects</a></li>
+
+
 ### :hammer_and_wrench: Languages and Tools:
 ![Java](https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -42,6 +47,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ---
+
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fedeyak&hide_border=true&border_radius=3&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
