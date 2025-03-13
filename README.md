@@ -10,9 +10,12 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 <!--     <img src="https://img.shields.io/badge/Gmail-gray?style=for-the-badge&logo=Gmail&logoColor=red" alt="Gmail Badge"/> -->
   <a href="https://www.linkedin.com/in/fedor-krushov/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+
   </a>
-    
+     <a href="https://habr.com/ru/users/fedeyak/articles/">
+    <img src="https://img.shields.io/badge/Harbr-blue?style=for-the-badge&logo=harbr&logoColor=white" alt="Harbr Badge"/>
+
 
 </div>
 
