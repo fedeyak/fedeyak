@@ -37,8 +37,10 @@
 - How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Fedor_Krushov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Fedor_Krushov)
 ---
 <h3 class="heading-element" dir="auto">Main repositories</h3>
-<li><a href="https://github.com/fedeyak/leet_code">LeetCode problems</a></li>
-<li><a href="https://github.com/fedeyak/Educational_projects">Educational projects</a></li>
+<li><a href="https://github.com/fedeyak/projects">Current projects</a></li>
+<li><a href="https://github.com/fedeyak/education">Problems from courses</a></li>
+<li><a href="https://github.com/fedeyak/leet_code">Problems from LeetCode</a></li>
+
 
 
 ### :hammer_and_wrench: Languages and Tools:
